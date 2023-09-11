@@ -1,0 +1,7 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Superheroes\bin\Debug\Superheroes.exe.config
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Superheroes\bin\Debug\Superheroes.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Superheroes\bin\Debug\Superheroes.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Superheroes\obj\Debug\Superheroes.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Superheroes\obj\Debug\Superheroes.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Superheroes\obj\Debug\Superheroes.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Superheroes\obj\Debug\Superheroes.pdb
