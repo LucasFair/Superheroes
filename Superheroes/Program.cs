@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Superheroes
 {
@@ -82,7 +78,6 @@ namespace Superheroes
 				"They method of operation is: " + spiderman.HeroAssociation + ".\n" +
 				"Their policy is: " + spiderman.HeroPolicy + "\n" +
 				"The weakness of this hero is: " + spiderman.HeroWeakness + ".");
-
 		}
 	}
 }
